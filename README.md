@@ -2,13 +2,16 @@
 
 > **Read-only archive of released versions of justoverclock/staff-members-widget.** Not for installation: use [Packagist](https://packagist.org/packages/justoverclock/staff-members-widget) or the [upstream repository](https://github.com/justoverclockl/staff-member-widget).
 
-**0** versions archived · Latest: [`0.1.3`](https://github.com/flarchive/justoverclock-staff-members-widget/tree/archive/v0.1.3) · License: `MIT` · Flarum: `^1.2.0`
+**4** versions archived · Latest: [`0.1.3`](https://github.com/flarchive/justoverclock-staff-members-widget/tree/archive/v0.1.3) · License: `MIT` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2022-09-21 | `^1.2.0` | [Browse](https://github.com/flarchive/justoverclock-staff-members-widget/tree/archive/v0.1.0) |
+| `0.1.1` | 2022-09-21 | `^1.2.0` | [Browse](https://github.com/flarchive/justoverclock-staff-members-widget/tree/archive/v0.1.1) |
+| `0.1.2` | 2022-09-21 | `^1.2.0` | [Browse](https://github.com/flarchive/justoverclock-staff-members-widget/tree/archive/v0.1.2) |
+| `0.1.3` | 2022-09-21 | `^1.2.0` | [Browse](https://github.com/flarchive/justoverclock-staff-members-widget/tree/archive/v0.1.3) |
 
 Catalog entry: [packages/justoverclock-staff-members-widget.json](https://github.com/flarchive/archive-index/blob/main/packages/justoverclock-staff-members-widget.json)
 
